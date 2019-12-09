@@ -1,0 +1,106 @@
+.fondo_pagina{
+	
+
+	height:70px;
+	width:auto;
+}
+
+.logo_sae{
+
+	height:100px;
+	width:190px;
+	
+	background: url('../imagenes/sae.png') no-repeat center center/cover;*/
+}
+.login{
+   height: 50%;
+   width: 35% ;
+	margin:auto;
+border-style:solid;
+border-color:black;
+	border-radius:10%;
+	color:black;
+	font-family:arial;
+	margin-top:120px;
+position:center;
+
+background-color:white;
+opacity:0.9;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+.text{
+	
+	width:350px;
+}
+
+.fondo{
+	height:850px;
+	opacity:0.7;
+
+	
+	background: url('../imagenes/fondo.jpg') no-repeat center center/cover;*/
+	
+}
+
+.contenido{
+	height:100px;
+	width:auto;
+	background-color:white;
+}
+.fondo2{
+	height:800px;
+	width:auto;
+	background-color:gray;
+	opacity:0.3;
+}
+
+.opciones {
+	margin-top:-60px;
+	margin-left:220px;
+	height:auto;
+	width:900px;
+	background-color:yellow;
+	
+}
+.opcion{
+	border-style:solid;
+	border-color:black;
+	border-radius:10%;
+	width:190px;
+}
+
+
+ 
+html,body{
+  color:white;
+  font-family:'Opens Sans',helvetica;  
+  height:100%;
+  width:100%;
+  margin: 0px;
+}
+ 
+.portada{
+ 	background: url('../imagenes/fondo.jpg') no-repeat center center/cover;*/ -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   height: 100%;
+   width: 100% ;
+   text-align: center;
+ opacity:0.7;
+ position:absolute;
+}
+
+.cont{
+	width:60%;
+	margin:center;
+	height:100%;
+	background-color:gray;
+	   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+
