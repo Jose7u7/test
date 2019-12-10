@@ -82,7 +82,7 @@ html,body{
 }
  
 .portada{
- 	background: url('fondo.jpg') no-repeat center center/cover;*/ -webkit-background-size: cover;
+ 	background: url('/fondo.jpg') no-repeat center center/cover;*/ -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
